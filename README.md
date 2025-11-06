@@ -37,7 +37,7 @@ A full-stack web application providing weather information, currency conversion,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LEKKALAGANESH/InfoHub-Challenge.git
+   git clone https://github.com/LEKKALAGANESH/InfoHub-Challenge-LekkalaGanesh.git
    cd InfoHub-Challenge
    ```
 
